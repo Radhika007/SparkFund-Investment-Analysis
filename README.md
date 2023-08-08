@@ -11,7 +11,7 @@ It wants to invest only in English-speaking countries because of the ease of com
 SparkFunds Dataset from Kaggle consists of companies.txt, rounds2.csv and mapping.csv <br>
 
 #Insights <br>
-1. According to the first part of the analysis, since Spark Funds wants to invest between 5 to 15 million USD per round, the ideal type of investment for this company would be Venture. (Average amount raised in Venture is around 11.7 million USD .
+1. According to the first part of the analysis, since Spark Funds wants to invest between 5 to 15 million USD per round, the ideal type of investment for this company would be Venture. (Average amount raised in Venture is around 11.7 million USD) .
 2. The top 5 countries receiving the most funds are USA, China, Great Britain, India and Canada. Out of these only USA, Great Britain, India and Canada are countries whose official language is English. The 3 best countries to invest in would be USA, Great Britain and India.
 3. In USA, the company that recieved highest investment in top sector was: Virtustream. In GBR, company that recieved highest investment in top sector was: Electric Cloud and in India, company that recieved highest investment in top sector was: FirstCry.com
 <br>
