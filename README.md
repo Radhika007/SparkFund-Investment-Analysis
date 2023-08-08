@@ -18,5 +18,5 @@ SparkFunds Dataset from Kaggle consists of companies.txt, rounds2.csv and mappin
 #Conclusion <br>
 The SparkFunds CEO can invest in any of the above mentioned companies.
 <br>
-*This Exploratory Data Analysis project was carried out with using a number of steps, from data cleaning to descriptive analysis.* 
+*This Exploratory Data Analysis project was carried out using a number of steps, from data cleaning to descriptive analysis.* 
    
